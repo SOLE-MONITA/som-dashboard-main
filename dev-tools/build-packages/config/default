@@ -1,0 +1,8 @@
+user="som-dashboard"
+group="som-dashboard"
+chroot="/"
+chdir="/"
+nice=""
+KILL_ON_STOP_TIMEOUT=0
+
+OSD_PATH_CONF="/etc/som-dashboard"
